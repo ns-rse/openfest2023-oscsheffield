@@ -13,25 +13,15 @@ format:
     show-slide-number: speaker
     # embed-resources: true
     # standalone: true
-footer: "[**ns-rse.github.io/openfest2023-oscsheffield/**](https://ns-rse.github.io/openfest2023-oscsheffield/#/title-slide)"
+footer: "**Register** : [**osc-international.com/osc-sheffield/**](https://osc-international.com/osc-sheffield/) | **Slides** : [**ns-rse.github.io/openfest2023-oscsheffield**](https://ns-rse.github.io/openfest2023-oscsheffield)"
 project:
   port: 7864
   host: localhost
 ---
 
-##
+## View these slides
 
-:::: {.columns}
-
-::: {.column width="50%"}
-View these slides...
-:::
-
-::: {.column width="50%"}
 {{< qrcode https://ns-rse.github.io/openfest2023-oscsheffield/ qr1 width=400 height=400 >}}
-:::
-
-::::
 
 ::: {.notes}
 Good afternoon, if you'd like to view these slides on your own laptop you can scan this QR code or go to the URL shown
@@ -63,8 +53,9 @@ and am here to talk that today.
 
 ## INOSC
 
-OSCs are part of [International Network of Open Science Communities](https://www.osc-international.com/) (INOSC)
+OSCs are part of [International Network of Open Science Communities](https://www.osc-international.com/) (INOSC**
 
+**TODO** Update images...
 :::: {.columns}
 
 ::: {.column width="50%"}
@@ -241,9 +232,9 @@ In the same vein the more specific a topic is the better, it ensure that the nec
 relevant to those attending which improves engagement.
 
 From my own experience knowing a system really well means that you can often overlook certain aspects that you take for
-granted and that someone new to a system might struggle to understand or use. I'd used Git for version controlling my
-code as a Medical Statistician but never worked with others using it. When I started doing so there were a number of
-concepts that were completely new to me and my colleagues kindly took the time to explain them to me.
+granted and that someone new to a system might struggle to understand or use. <!-- I'd used Git for version controlling my -->
+<!-- code as a Medical Statistician but never worked with others using it. When I started doing so there were a number of -->
+<!-- concepts that were completely new to me and my colleagues kindly took the time to explain them to me. -->
 
 The key to a successful community really is about participation though and peer-to-peer interactions help promote this.
 :::
@@ -348,6 +339,9 @@ The Turing Way - Communities [DOI : 10.5281/zenodo.3695300](https://zenodo.org/r
 
 
 ::: {.notes}
+Include link to [Towards wide-scale adoption of open science practices: The
+role of open science communities.](https://doi.org/10.1093/scipol/scab039)
+
 :::
 
 <!-- ## Title -->
