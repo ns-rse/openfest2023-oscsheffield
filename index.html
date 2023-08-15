@@ -9,7 +9,7 @@
 <link href="site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/quarto-contrib/qrcodejs-v1.0.0/qrcode.js"></script><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.3.433">
+  <meta name="generator" content="quarto-1.3.450">
 
   <meta name="author" content="Neil Shephard">
   <title>Open Scholarship Community Sheffield Launch - Open Scholarship Community Sheffield</title>
@@ -347,7 +347,7 @@ Neil Shephard <a href="https://orcid.org/0000-0001-8301-6857" class="quarto-titl
 <h2>View these slides</h2>
 <div id="qr1" class="qrcode"></div>
 <script type="text/javascript">
-var qrcode = new QRCode("qr1", {"width":"400","colorDark":"#000000","height":"400","colorLight":"#ffffff","text":"https://ns-rse.github.io/openfest2023-oscsheffield/"});
+var qrcode = new QRCode("qr1", {"height":"400","colorLight":"#ffffff","text":"https://ns-rse.github.io/openfest2023-oscsheffield/","colorDark":"#000000","width":"400"});
 </script>
     
 <!-- ## -->
@@ -356,9 +356,9 @@ var qrcode = new QRCode("qr1", {"width":"400","colorDark":"#000000","height":"40
 <aside class="notes">
 <p>Good afternoon, if you’d like to view these slides you can scan the QR code or go to the Slides link that is at the bottom of every slide I’d encourage you to do so as I’ve littered the slides with links for further reading. You’ll see I’ve also included the link to register at the bottom here and if you decide please do remember to select <em>OSC Sheffield</em> under the <em>Which OSC?</em> field when registering.</p>
 <p>Hi, my name is Neil Shephard, and I’m a Research Software Engineer in the Research Software Engineering Team within the Computer Science Department but I’m not hear today to talk to you about software, but about Open Scholarship Community or OSC in Sheffield.</p>
-<p>I completed both undergraduate and post-graduate degrees here in Sheffield. I’ve worked as a Genetics Statistician at University of Manchester, Western Australia and went full circle coming back to University of Sheffield. I then spent the best part of a decade working as a Medical Statistician in the Clinical Trials Unit within ScHARR. I had a few years working in industry before returning to University of Sheffield last year to my current role as Research Software Engineer.</p>
-<p>Early in my time at Manchester I developed an interest in reproducibility as I quickly tired of re-creating tables and copying and pasting figures into documents for internal reports and publications and taught myself literate programming with LaTeX and in time other systems. When I switched to using R and RMarkdown for these tasks when I worked as a medical statistics I also learnt how to use Git to version control my code.</p>
-<p>Despite being co-author on a number of papers that are Open Access during my time working as a Medical Statistician the code that underpinned the research was never formally published and all of the papers were authored in Word, I just couldn’t convince my collaborators to change their workflows to make them more reproducible and open.</p>
+<p>I’ve in various roles at different Universities over the years as a Genetics Statistician at University of Manchester, Western Australia and went full circle coming back to University of Sheffield. I then spent the best part of a decade working as a Medical Statistician in the Clinical Trials Unit within ScHARR. I had a few years working in industry before returning to University of Sheffield last year to my current role as Research Software Engineer.</p>
+<p>Early in my time at Manchester I developed an interest in computational reproducibility of the work I was takin as it streamlined the workflow and is fundamental to the robustness of research.</p>
+<p>Despite being co-author on a number of papers that are Open Access very little of the code that underpinned the research was never formally published and all of the papers were authored in Word, I just couldn’t convince my collaborators to change their workflows to make them more reproducible and open.</p>
 <p>I think its great to see the changes since then and the increasing prominence and importance of Open Research practices as they underpin the validity of research.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
@@ -381,10 +381,10 @@ var qrcode = new QRCode("qr1", {"width":"400","colorDark":"#000000","height":"40
 </ul>
 
 <aside class="notes">
-<p>I’m passionate about open research as it is fundamental aspect that underpins the enquiry process research institutes engage in, but I came to be here stood in front of you almost by accident. I was asked to look into and grow the the RSE community in Sheffield and came aross the INOSC Incubator Programme which sounded like a really good way to learn about how to grow communities. There was a specific purpose to incubate a community</p>
-<p>The Incubator Programme aim is to seed, nurture and help grow Open Scholarship/Science Communities around the world by helping other researchers to establish local communities and share their resources, ideas and experiences.</p>
-<p>After meeting regularly with nine other researchers from Greece, Portugal, France and Germany as well as Durham here in the UK for several months we were guided through the process of establishing Open Scholarship Communities by Loek and Anita Eereland who you will hear from in a little while.</p>
-<p>And I’m now here to tell you about and launch OSC Sheffield.</p>
+<p>How did I come to be here talking to you about Open Scholarship Communities though?</p>
+<p>In short it was bit of an accident. I was asked to look into and grow the the RSE community in Sheffield and came across the INOSC Incubator Programme which sounded like a really good way to learn about how to grow communities. There was a specific purpose to incubate a community though which was to seed, nurture and help grow Open Scholarship/Science Communities around the world by helping other researchers to establish local communities and share their resources, ideas and experiences.</p>
+<p>After meeting regularly with nine other researchers from Greece, Portugal, France and Germany as well as Durham in the UK for several months we were guided through the process of establishing Open Scholarship Communities by Loek Brinkman and Anita Eereland who you will hear from in a little while.</p>
+<p>And so I’m now here to tell you about and launch OSC Sheffield.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -411,11 +411,11 @@ var qrcode = new QRCode("qr1", {"width":"400","colorDark":"#000000","height":"40
 </div>
 
 <aside class="notes">
-<p>But Why Communities? We all know that open science is a good thing and funders are increasingly stipulating that the output they fund should be open.</p>
+<p>I’m probably preaching to the converted in saying that open research is a good thing and funders are increasingly stipulating that the output they fund should be open but what role do communities have to play?</p>
 <p>This is a diagram from an article by Brian Nosek, one of the co-founders of the Center for Open Science and represents how to bring about culture and behaviour change.</p>
 <p>Infrastructure is at the base of the pyramid of culture and behaviour change and there are systems in place such as the Open Science Framework and Octopus which is being developed by JISC. Both of which allow (or will) researchers to register their studies, share materials and data (optionally protecting sensitive data) and share outcomes at any point in the study to accelerate communication regardless of publication status. The user interface and experience of using these tools needs to be low friction to encourage adoption and many popular services such as GitHub and Docker are integrated.</p>
 <p>From the top of the pyramid is policy, which defines what you have to do within the system and this determines the incentives that reward participants for participating in the system. Increasingly research funders and the University stipulate that research output should be Open.</p>
-<p>Whilst individuals can always got about changing their behaviour themselves, but this is challenging when the culture is to maintain the status quo and the most effective way of supporting and nurturing individuals who are seeking to change is via a supportive community as they help normalise the behavioural changes that are being undertaken, provide support and demonstrate that open research is possible, and all of this serves to accelerate the adoption of Open Research practices.</p>
+<p>Whilst individuals can always got about changing their behaviour themselves, this can be challenging when the culture is to maintain the status quo, as I mentioned I found in the past, and the most effective way of supporting and nurturing individuals who are seeking to change is via a supportive community as they help normalise the behavioural changes that are being undertaken, provide support and demonstrate that open research is possible, and all of this serves to accelerate the adoption of Open Research practices.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -464,7 +464,7 @@ var qrcode = new QRCode("qr1", {"width":"400","colorDark":"#000000","height":"40
 <ul>
 <li>Brings together people with shared goals.</li>
 <li>Gives them a sense of belonging.</li>
-<li>Allows people to make connections</li>
+<li>Allows people to make connections and network.</li>
 <li>This gives them opportunities to learn and grow.</li>
 </ul>
 <p>…all of which encourages and enables people to take action, normalising practices and achieving more than they might have on their own, and accelerates the cultural shift to adopting Open Research and greater transparency.</p>
@@ -493,7 +493,7 @@ var qrcode = new QRCode("qr1", {"width":"400","colorDark":"#000000","height":"40
 <aside class="notes">
 <p>As I’m sure most of you are aware, there are a <em>lot</em> of tools out there these days for undertaking open research, sometimes it can be a little overwhelming.</p>
 <p>They can be categorised into the areas of Assessment, Discovery, Analysis, Writing, Publication and Outreach and many of them span several of these areas but we have tools and services like Research Gate, PLOS One, F1000, pre-print servers like arXiv, bioRxiv and medRxiv, R, Python, BioConductor, Overleaf, Zotero, LaTeX, Git, GitHub and GitLab. There is a lot out there!</p>
-<p>It’s not surprising that some people are hesitant to change when presented by the vast array of tools.</p>
+<p>It’s not surprising that some people are hesitant to change when presented by the vast array of tools and the mantra to adopt Open Research as it can be overwhelming.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -510,7 +510,7 @@ var qrcode = new QRCode("qr1", {"width":"400","colorDark":"#000000","height":"40
 <h2>Diffusion of Innovation</h2>
 <p><img data-src="img/diffusion_innovation.png"></p>
 <aside class="notes">
-<p>When any innovative technology or practice comes along you will typically encounter this sort of pattern of diffusion where there are a few innovators who develop the system, slightly more early adopters will pick things up soon after, and following them there is the early majority where uptake increases dramatically. Unfortunately there is still a large proportion of people who have a propensity to resist change, some have low resistance, termed here the late majority, some with higher resilience, somewhat unflatteringly termed the laggards.</p>
+<p>When any innovative technology or practice comes along you will typically encounter this sort of pattern of diffusion where there are a few innovators who develop the system, slightly more early adopters will pick things up soon after, and following them there is the early majority where uptake increases dramatically. Unfortunately there is still a large proportion of people who have a propensity to resist change, some have low resistance, termed here the late majority, some with higher resilience, somewhat unflatteringly termed the laggards but that’s not meant to be disparaging, we want lower the barrier for adoption to everyone.</p>
 <p>By normalising open research practices through building of an active community we accelerate and lower the bar to adoption of practices and reach the early and late majority and the stragglers faster.</p>
 <p>And I don’t think its about making massive leaps, you don’t have to instantly become an expert in typeseeting LaTeX documents under version control which are compiled into documents and websites automatically and are available in real time. We learn best when we take small steps, one at a time.</p>
 <style type="text/css">
@@ -667,7 +667,7 @@ var qrcode = new QRCode("qr1", {"width":"400","colorDark":"#000000","height":"40
 
 <aside class="notes">
 <p>OSC Sheffield joins the growing International Open Science and Scholarship Community (INOSC) which started in the Netherhlands but is growing thanks to the Incubator Programme they have established and which I undertook earlier this year and has underpinned and guided the development of OSC Sheffield.</p>
-<p>I’m pleased to say that co-founder of INOSC Anita Eerland has kindly agreed to tell you a little bit more about how Sheffield fits in with the wider INOSC network and how the international community works.</p>
+<p>I’m pleased to say that co-founder of INOSC Anita Eerland from the University of Radboud in The Netherlands has kindly agreed to tell you a little bit more about INOSC and how Sheffield fits in with the wider and the international community.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -692,7 +692,7 @@ var qrcode = new QRCode("qr1", {"width":"400","colorDark":"#000000","height":"40
 <li class="fragment">Don’t forget <strong>OSC Sheffield</strong> under <em>Which OSC?</em> <span class="emoji" data-emoji="wink">😉</span></li>
 </ul>
 </div><div class="column" style="width:50%;">
-<p><img data-src="img/osc_sheffield_profiles2.png"></p>
+<p><img data-src="img/osc_sheffield_profiles3.png"></p>
 </div>
 </div>
 <aside class="notes">
@@ -719,7 +719,7 @@ var qrcode = new QRCode("qr1", {"width":"400","colorDark":"#000000","height":"40
 </div><div class="column" style="width:50%;">
 <div id="qr2" class="qrcode"></div>
 <script type="text/javascript">
-var qrcode = new QRCode("qr2", {"width":"400","colorDark":"#000000","height":"400","colorLight":"#ffffff","text":"https://osc-international.com/osc-sheffield-register/"});
+var qrcode = new QRCode("qr2", {"height":"400","colorLight":"#ffffff","text":"https://osc-international.com/osc-sheffield-register/","colorDark":"#000000","width":"400"});
 </script>
     
 </div>
