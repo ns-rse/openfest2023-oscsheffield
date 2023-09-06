@@ -101,8 +101,8 @@ OSC in Sheffield.
 <!-- I'm probably preaching to the converted in saying that open research is a good thing but you may be wondering what role -->
 <!-- do communities have to play in open research? -->
 
-A  common theme throughout today's talks has been that working together is key to the
-success of Open Research endeavour and this is where the idea of communities are important.
+A common theme throughout today's talks has been that working together, collaborating and sharing experiences is key to
+the success of Open Research endeavour and this is where the idea of communities are important.
 
 This diagram is from an article by Brian Nosek, one of the co-founders of the Center for Open Science and
 represents how to bring about culture and behaviour change.
