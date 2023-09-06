@@ -111,7 +111,7 @@ Infrastructure is at the base of the pyramid of culture and behaviour change, yo
 Open Science Framework which allows researchers to register their studies, share materials, data and output at any point
 to accelerate communication regardless of publication status.
 
-But for this to be effective the user experience of using needs to be low friction to encourage adoption and many
+But for this to be effective the user experience needs to be low friction to encourage adoption and many
 popular services integrate with each other and strive to make their tools accessible.
 
 From the top of the pyramid is policy, which derives from funders and institutions, and defines what you have to do
@@ -121,18 +121,18 @@ This in turn defines the incentives that reward participants for participating i
 
 Whilst individuals can always go about changing their own behaviour, this can be challenging when the culture is
 to maintain the status quo, not all colleagues are keen to change their working practices. But an effective way of
-supporting and nurturing individuals who are seeking to change is via a supportive community as seeing people
-undertaking new practices normalises the behavioural changes, provides support and demonstrates that open research is
+supporting and nurturing individuals who are seeking to change is via a supportive community as seeing others
+using open research practices normalises the behavioural changes, provides support and demonstrates that open research is
 possible.
 
-Thus communities normalise behaviour andserve to accelerate the adoption of change, in this case Open Research
+Thus communities normalise behaviour and serve to accelerate the adoption of change, in this case Open Research
 practices, and importantly can feed up the pyramid to the top to influence and shape policy as practices and guidelines
 develop and mature over time.
 :::
 
 ## What are Communities?
 
-. . .
+<!-- . . . -->
 
 "_a dynamic, social grouping where members align around a shared purpose (or multiple overlapping purposes)
   and participate in a shared culture. Active community participation frequently aligns with a sense of
@@ -143,7 +143,7 @@ develop and mature over time.
 
 ::: {.notes}
 I think before going further its worth giving a clear definition of what a community is and this quote from the Center
-for Scientific Collaboration and Community Engagement encapsulates it nicely...
+for Scientific Collaboration and Community Engagement encapsulates it nicely, and a community is...
 
 <READ SLIDE>
 :::
@@ -168,8 +168,8 @@ Nurturing a community within Sheffield and as part of the wider International co
 + Allows people to make connections and network.
 + This gives them opportunities to learn and grow.
 
-...all of which encourages and enables people to take action, normalising practices and driving the cultural shift to
-adopting Open Research and greater transparency. As a group this can bring about more change than any one individual
+...all of which helps normalise practices and drives the cultural shift to adopting Open Research and greater
+transparency. And if we work together than as a group we can bring about more change than any one individual could
 acting on their own.
 :::
 
@@ -287,20 +287,20 @@ this.
 ::::
 
 ::: {.notes}
-There are already a number of community activities in Sheffield.
+As your all no doubt aware and have heard today there are already a number of community activities in Sheffield.
 
 The Open Research Working Group convenes regularly to discuss and progress issues surrounding open research within the
 University and hold regular drop-in sessions to discuss aspects of Open Research.
 
-Jenni Adams, the library Open Research Manager who has orchestrated this event, also organises monthly Open Research
+Jenni Adams, who has orchestrated this event, also organises monthly Open Research
 Conversations which are lunchtime seminars open where invited speakers give short talks on specific topics which are
 followed by discussion.
 
-In the past Sheffield had Reproducibilitea Journal Clubs organised by Zuzzana Zagrodzka and Jim Uttley which affords an
+In the past Sheffield had Reproducibilitea Journal Clubs organised which affords an
 opportunity to review and discuss different aspects of Open Research.
 
-Similarly there used to be the Sheffield R User Group which met to share experiences of using the R statistical software
-ecosystem for undertaking reproducible research.
+Similarly there used to be the Sheffield R User Group which met to regularly to share experiences of using the R
+statistical software ecosystem for undertaking reproducible research.
 
 Both of these groups are being restarted so keep an eye out for announcements for these launching in October and
 November.
@@ -333,7 +333,7 @@ Community (INOSC) which started in the Netherlands but is expanding thanks to th
 and which has guided us the development of OSC Sheffield.
 
 I'm pleased to be able to introduce one of the founders of INOSC Anita Eerland from the University of Radboud in The
-Netherlandsto tell you a little bit more about INOSC and how Sheffield fits in with the wider international community.
+Netherlands to tell you a little bit more about INOSC and how Sheffield fits in with the wider international community.
 :::
 
 ## Join OSC Sheffield
@@ -356,10 +356,10 @@ Netherlandsto tell you a little bit more about INOSC and how Sheffield fits in w
 ::: {.notes}
 Thank you very much Anita.
 
-This brings this short talk on OSC Sheffield and I would like to invite you to sign up if
-you haven't done so already. There is a website where you can register, adding details of areas you have experience of,
-interest in and add a bit about yourself. Don't forget under the _Which OSC?_ field to ensure you've selected OSC
-Sheffield!
+This brings this short talk on OSC Sheffield to a close and I would like to invite you to sign up to the community.
+
+There is a website where you can register, adding details of areas you have experience of, interest in and add a bit
+about yourself. Don't forget under the _Which OSC?_ field to ensure you've selected Sheffield!
 :::
 
 ##
@@ -380,9 +380,11 @@ role of open science communities.](https://doi.org/10.1093/scipol/scab039)
 ::: {.notes}
 For convenience this QR Code will take you to the registration site.
 
-We have some refreshments available now and an opportunity to chat about the many wonderful presentations you've seen
-today. If you've any questions about OSC Sheffield please do come and ask me, but I hope to see many of you in the
-future at the various events and activities that are planned.
+I believe there is now some refreshments available and an opportunity to chat about the many wonderful presentations
+you've seen today.
+
+If you've any questions about OSC Sheffield please do come and speak to me, but I hope to see many of you
+in the future at the various events and activities that are planned.
 :::
 
 <!-- ## Title -->
