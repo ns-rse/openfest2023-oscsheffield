@@ -98,8 +98,11 @@ OSC in Sheffield.
 :::
 
 ::: {.notes}
-I'm probably preaching to the converted in saying that open research is a good thing but you may be wondering what role
-do communities have to play in open research?
+<!-- I'm probably preaching to the converted in saying that open research is a good thing but you may be wondering what role -->
+<!-- do communities have to play in open research? -->
+
+A  common theme throughout today's talks has been that working together is key to the
+success of Open Research endeavour and this is where the idea of communities are important.
 
 This diagram is from an article by Brian Nosek, one of the co-founders of the Center for Open Science and
 represents how to bring about culture and behaviour change.
@@ -122,8 +125,9 @@ supporting and nurturing individuals who are seeking to change is via a supporti
 undertaking new practices normalises the behavioural changes, provides support and demonstrates that open research is
 possible.
 
-Thus communities serve to accelerate the adoption of change, in this case Open Research practices, and importantly can
-feed up the pyramid to the top to influence and shape policy as practices and guidelines develop and mature over time.
+Thus communities normalise behaviour andserve to accelerate the adoption of change, in this case Open Research
+practices, and importantly can feed up the pyramid to the top to influence and shape policy as practices and guidelines
+develop and mature over time.
 :::
 
 ## What are Communities?
