@@ -101,7 +101,7 @@ OSC in Sheffield.
 I'm probably preaching to the converted in saying that open research is a good thing but you may be wondering what role
 do communities have to play in open research?
 
-This is pyramid diagram is from an article by Brian Nosek, one of the co-founders of the Center for Open Science and
+This diagram is from an article by Brian Nosek, one of the co-founders of the Center for Open Science and
 represents how to bring about culture and behaviour change.
 
 Infrastructure is at the base of the pyramid of culture and behaviour change, you need tools such as the
@@ -111,10 +111,10 @@ to accelerate communication regardless of publication status.
 But for this to be effective the user experience of using needs to be low friction to encourage adoption and many
 popular services integrate with each other and strive to make their tools accessible.
 
-From the top of the pyramid is policy, from funders and institutions, which define what you have to do within the system
-to gain recognition.
+From the top of the pyramid is policy, which derives from funders and institutions, and defines what you have to do
+within the system to gain recognition.
 
-This in term defines the incentives that reward participants for participating in the system.
+This in turn defines the incentives that reward participants for participating in the system.
 
 Whilst individuals can always go about changing their own behaviour, this can be challenging when the culture is
 to maintain the status quo, not all colleagues are keen to change their working practices. But an effective way of
@@ -178,7 +178,7 @@ As I'm sure most of you are aware, there are a _lot_ of tools out there these da
 and this graphic shows just some of the tools available.
 
 Services like Research Gate, PLOS One, F1000, pre-print servers, R, Python, BioConductor, Overleaf, Zotero, LaTeX, Git,
-GitHub and GitLab to name a few on this graphic. There are a lot out of different tools and services out there.
+and GitHub to name a few on this graphic. There are a lot out of different tools and services out there.
 
 It's therefore not surprising that some people are hesitant to change when presented with the mantra to adopt Open
 Research as it can be overwhelming.
@@ -189,10 +189,10 @@ Research as it can be overwhelming.
 ![](img/diffusion_innovation.png)
 
 ::: {.notes}
-When any innovative technology or practice comes along you will typically encounter this sort of pattern of diffusion
-where there are a few innovators who develop the system, slightly more early adopters will pick things up soon after,
-and following them there is the early majority where uptake increases dramatically. Unfortunately there is still a large
-proportion of people with varying resilience, the late majority, and some with higher resilience, somewhat
+When any new innovative technology or practice comes along you will typically encounter this sort of pattern of
+diffusion where there are a few innovators who develop the system, slightly more early adopters will pick things up soon
+after, and following them there is the early majority where uptake increases dramatically. Unfortunately there is still
+a large proportion of people with varying resilience, the late majority, and some with higher resilience, somewhat
 unflatteringly termed the laggards but that's not meant to be disparaging.
 
 By normalising open research practices through building an active community we can accelerate and lower the bar for
@@ -217,10 +217,11 @@ _When one person teaches, two people learn._
 
 
 ::: {.notes}
-The University comprises a range of researchers in terms of career stages, early, mid and advanced and across each of
-these there is variation in the skills, knowledge and experience around the different areas of Open Science, some people
-have experience in pre-registering study protocols, others are familiar with the FAIR Principles for Data sharing and
-might have experience using University of Sheffields ORDA system.
+The University comprises a range of researchers in terms of career stages, early, mid and advanced
+
+Across each of these there is variation in the skills, knowledge and experience around the different areas of Open
+Science, some people have experience in pre-registering study protocols, others are familiar with the FAIR Principles
+for Data sharing and might have experience using University of Sheffields ORDA system.
 
 Training courses are great for getting started but typically when applying what you've learned to your own
 work or situation there will be questions and problems that crop up and this is where the support of a community
@@ -239,8 +240,10 @@ normalising the practices because...when one person teaches two people learn.
 + Participation is the key
 
 ::: {.notes}
-Peer-to-peer teaching can be far less intimidating than formal teaching environments as it lowers the threshold for
-asking for help when it is felt that the community is supportive and encouraging.
+And so communities ar really about peer-to-peer interactions which are a powerful learning tool.
+
+It can be far less intimidating than formal teaching environments as it lowers the threshold for asking for help when it
+is felt that the community is supportive and encouraging.
 
 Very often experience is more important than expertise. From my own experience knowing a system really well means that
 you can often overlook certain aspects that you take for granted and that someone new to a system might struggle to
@@ -259,69 +262,13 @@ this.
 :::
 
 
-<!-- :::: {.scrollable} -->
-<!-- ## Structure -->
-
-<!-- + Core Team of active members, inclusive and diverse. -->
-<!-- + Independent, bottom-up, self-governing, self-steering. -->
-<!-- + Not determined by institutional policies. -->
-<!-- + Collaborate with institutional Open Research programmes. -->
-<!--   <\!-- + Library -\-> -->
-<!--   <\!-- + FAIR Roadmap Working Group -\-> -->
-<!--   <\!-- + [Data Visualisation Hub](https://dataviz.shef.ac.uk/) -\-> -->
-<!-- + All staff, researchers, support staff and administrators. -->
-
-<!-- ::: {.notes} -->
-<!-- The structure of the Open Scholarship Community consists of a core team of active members which should be -->
-<!-- inclusive and diverse, with members from all faculties represented. Members in specific domains are better positioned to -->
-<!-- engage with and inspire their peers. It is important to have representatives from all faculties to encourage wide-spread -->
-<!-- adoption and avoid any one group from feeling excluded or that Open Scholarship isn't for them. I've reached out to -->
-<!-- members of the Open Research Working Group here at the University of Sheffield and have representatives from most -->
-<!-- faculties but if you would like to be involved please do get in touch. -->
-
-<!-- The community is meant to be an independent, bottom-up, self-governing and self-steering group and not determined by -->
-<!-- institutional policies but should cooperate with the existing structures for Open Research such as the excellent -->
-<!-- resources and meetings put on by Jenni Adams and her colleagues in the library, the Open Research Working Group who have -->
-<!-- regular drop-in sessions. There is also the Data Visualisation Hub who help with analytical aspects and the RSE team -->
-<!-- which I'm a part of who together with IT services run Code Clinics and Lunch Bytes. -->
-
-<!-- Its aimed at all staff, not just researchers but support staff and administrators. -->
-<!-- ::: -->
-
-<!-- :::: -->
-
-
-<!-- ## OSC Sheffield -->
-
-<!-- + Opportunity join growing International Network -->
-<!-- + Sheffield and Durham currently on Incubator Programme -->
-<!-- + Present if not launch around OpenFest2023 -->
-
-<!-- ::: {.notes} -->
-<!-- This gives us an opportunity to join the growing network of Open Science Communities that co-ordinate and share -->
-<!-- knowledge as part of the International Network of Open Science Communities. -->
-
-<!-- Currently on the Incubator programme from the UK are myself and [Fuschia -->
-<!-- Sirois](https://www.durham.ac.uk/staff/fuschia-sirois/) from the University of Durham, who happens to be an alumni -->
-<!-- of The University of Sheffield and so we would be one of the first in the UK to develop an Open Scholarship Community if -->
-<!-- successful. -->
-
-<!-- Currently there are no costs associated for this work its something I've undertaken of my own volition as I'm keen to -->
-<!-- see Open Research be more widely adopted and normalised within the research community as I feel there is still a long -->
-<!-- way to go and that building a community of people to support each other is an effective means of normalising the -->
-<!-- practice and increasing the open ness of research at The University of Sheffield and beyond. -->
-<!-- ::: -->
-
-
-
 ##
 
 :::: {.columns}
 
 ::: {.column width="50%"}
-+ Open Research Working Group
++ [Open Research Working Group](https://sites.google.com/sheffield.ac.uk/orwg) drop-in sessions
 + Open Research Conversations
-+ Drop-in sessions
 + [Sheffield Reproducibilitea](https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea)
 + [Sheffield R User Group](https://sheffieldr.github.io/)
 . . . .
@@ -341,23 +288,26 @@ There are already a number of community activities in Sheffield.
 The Open Research Working Group convenes regularly to discuss and progress issues surrounding open research within the
 University and hold regular drop-in sessions to discuss aspects of Open Research.
 
-Jenni Adams, the library Open Research Manager and organised or OpenFest2023, organises the monthly Open Research
+Jenni Adams, the library Open Research Manager who has orchestrated this event, also organises monthly Open Research
 Conversations which are lunchtime seminars open where invited speakers give short talks on specific topics which are
 followed by discussion.
 
-In the past Sheffield had Reproducibilitea Journal Clubs organised by Zuzzana Zagrodzka and Jim Uttley which afforded an
+In the past Sheffield had Reproducibilitea Journal Clubs organised by Zuzzana Zagrodzka and Jim Uttley which affords an
 opportunity to review and discuss different aspects of Open Research.
 
 Similarly there used to be the Sheffield R User Group which met to share experiences of using the R statistical software
 ecosystem for undertaking reproducible research.
 
-Both of these groups are being restarted so keep an eye out for announcements of events in October.
+Both of these groups are being restarted so keep an eye out for announcements for these launching in October and
+November.
 
 Most importantly though the community is shaped by you, if you've an interest or need to know more about a particualr
-subject please come and join the community. If you've material on Open Research practices, whether that is
-pre-registration, making your data Open and FAIR, reproducible writing, using the Open Science Framework or anything
-that you might have shared with colleagues within your team or department please consider sharing it with the wider
-community within the University.
+subject please come and join the community. If you've material on Open Research practices, that you might have shared
+with colleagues within your team or department please consider sharing it with the wider community within the
+University.
+
+Whether that is that is pre-registration, making your data Open and FAIR, reproducible writing, using the Open Science
+Framework or anything else related to Open Research please come and share it with others.
 
 The more people who participate the stronger and more supportive the community will be. And remember the community is
 self-guiding so its activities and direction are meant to be guided by its members so please consider get involved.
@@ -374,13 +324,12 @@ self-guiding so its activities and direction are meant to be guided by its membe
 
 ::: {.notes}
 
-OSC Sheffield joins the growing International Open Science and Scholarship Community (INOSC) which started in the
-Netherlands but is expanding thanks to the Incubator Programme they established and which has guided us the development
-of OSC Sheffield.
+OSC Sheffield isn't an original idea of mine, rather it joins the growing International Open Science and Scholarship
+Community (INOSC) which started in the Netherlands but is expanding thanks to the Incubator Programme they established
+and which has guided us the development of OSC Sheffield.
 
-I'm pleased to be able to introduce INOSC Anita Eerland from the University of Radboud in The Netherlands who is one of
-the co-founders of INOSC to tell you a little bit more about INOSC and how Sheffield fits in with the wider and the
-international community.
+I'm pleased to be able to introduce one of the founders of INOSC Anita Eerland from the University of Radboud in The
+Netherlandsto tell you a little bit more about INOSC and how Sheffield fits in with the wider international community.
 :::
 
 ## Join OSC Sheffield
@@ -401,23 +350,20 @@ international community.
 
 ::::
 ::: {.notes}
-Thank you very much Anita for joining us that was really interesting.
+Thank you very much Anita.
 
-This brings this short talk on Open Scholarship Community Sheffield and I would like to invite you to sign up if
-you haven't done so already. The QR code on the next slide will take you to the website where you can register,
-adding details of areas you have experience of, interest in and add a bit about yourself. Don't forget under the _Which
-OSC?_ field to ensure you've selected OSC Sheffield!
-
-We have some refreshments available now and an opportunity to chat about the many wonderful presentations you've seen
-today. If you've any questions about OSC Sheffield please do come and ask me, but I hope to see many of you in the
-future at the various events and activities that are planned.
+This brings this short talk on OSC Sheffield and I would like to invite you to sign up if
+you haven't done so already. There is a website where you can register, adding details of areas you have experience of,
+interest in and add a bit about yourself. Don't forget under the _Which OSC?_ field to ensure you've selected OSC
+Sheffield!
 :::
 
 ##
 
 :::: columns
 ::: {.column width="50%"}
-![](img/OSC\ Sheffield.png)
+![[](https://osc-international.com/osc-sheffield)](img/OSC\ Sheffield.png)
+[https://osc-international.com/osc-sheffield](https://osc-international.com/osc-sheffield)
 :::
 ::: {.column width="50%"}
 {{< qrcode https://osc-international.com/osc-sheffield-register/ qr2 width=400 height=400 >}}
@@ -428,7 +374,11 @@ future at the various events and activities that are planned.
 role of open science communities.](https://doi.org/10.1093/scipol/scab039)
 
 ::: {.notes}
-END!
+For convenience this QR Code will take you to the registration site.
+
+We have some refreshments available now and an opportunity to chat about the many wonderful presentations you've seen
+today. If you've any questions about OSC Sheffield please do come and ask me, but I hope to see many of you in the
+future at the various events and activities that are planned.
 :::
 
 <!-- ## Title -->
